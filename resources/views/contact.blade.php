@@ -1,0 +1,4 @@
+<x-layout>
+    <x-slot:tittle>{{$tittle}}</x-slot:tittle>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sequi commodi fugit non facilis corrupti repellendus sapiente, provident quis! Harum alias cupiditate amet dolorem praesentium numquam, vitae fugiat necessitatibus vero minus id nulla voluptatibus libero itaque. Consequatur, labore culpa nam deserunt enim ut suscipit, eos harum iure ex laboriosam laborum animi odit ullam dolores adipisci aliquam doloribus? Saepe dolore veritatis consequuntur ad veniam blanditiis iure ab consectetur molestiae nisi non quas id accusamus officiis voluptatum illo sapiente necessitatibus, rerum eaque ut expedita aliquid cumque. Mollitia quidem debitis eos aliquam cumque repellat ullam hic, dolor illum consectetur labore saepe corrupti ad?</p>
+</x-layout>
