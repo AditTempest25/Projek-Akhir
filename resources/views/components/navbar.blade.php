@@ -11,7 +11,7 @@
                         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
                         <x-nav-link href="/" :active="request()->is('/')">Dashboard</x-nav-link>
                         <x-nav-link href="/about" :active="request()->is('/about')">About</x-nav-link>
-                        <x-nav-link href="/gatau" :active="request()->is('/gatau')">gatau</x-nav-link>
+                        <x-nav-link href="/shop" :active="request()->is('/Shop')">Shop</x-nav-link>
                         <x-nav-link href="/contact" :active="request()->is('/contact')">Contact</x-nav-link>
                         <a href="/login"
                             class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Login</a>
